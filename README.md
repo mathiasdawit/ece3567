@@ -1,1 +1,1 @@
-# ece3567
+This repository contains the files for a program that runs on the MSP430FR6989 microcontroller by Texas Instruments. The program reads the temperature of the room, and displays it to the LCD on the microcontroler, and also lights a corresponding color to an LED perhipheral attatched to the microcontroller.
